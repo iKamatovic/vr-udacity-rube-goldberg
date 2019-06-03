@@ -41,12 +41,12 @@
       "requirement": "optional"
     },
     {
-      "name": "/actions/default/in/Swipe",
-      "type": "vector2"
-    },
-    {
       "name": "/actions/default/in/OpenMenu",
       "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/Swipe",
+      "type": "vector2"
     },
     {
       "name": "/actions/default/out/Haptic",

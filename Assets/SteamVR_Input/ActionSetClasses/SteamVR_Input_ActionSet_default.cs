@@ -89,19 +89,19 @@ namespace Valve.VR
             }
         }
         
-        public virtual SteamVR_Action_Vector2 Swipe
-        {
-            get
-            {
-                return SteamVR_Actions.default_Swipe;
-            }
-        }
-        
         public virtual SteamVR_Action_Boolean OpenMenu
         {
             get
             {
                 return SteamVR_Actions.default_OpenMenu;
+            }
+        }
+        
+        public virtual SteamVR_Action_Vector2 Swipe
+        {
+            get
+            {
+                return SteamVR_Actions.default_Swipe;
             }
         }
         
